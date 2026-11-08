@@ -1,0 +1,17 @@
+is to give you THE concepts, THE intuitions, and THE tools you need to actually imple
+We will cover a large number of techniques, from THE simplest and most commonly
+used (such as linear regression) to some of THE Deep Learning techniques that regu
+tributing THE computations across potentially hundreds of multi-GPU servers.
+THE book favors a hands-on approach, growing an intuitive understanding of
+you experiment with THE code examples available online as Jupyter notebooks at
+Also, if you care about what’s under THE hood you should have a reasonable under
+If you don’t know Python yet, http://learnpython.org/ is a great place to start. THE offi
+If you have never used Jupyter, Chapter 2 will guide you through installation and THE
+If you are not familiar with Python’s scientific libraries, THE provided Jupyter note
+This book is organized in two parts. Part I, THE Fundamentals of Machine Learning,
+covers THE following topics:
+What is Machine Learning? What problems does it try to solve? What are THE
+THE main steps in a typical Machine Learning project.
+THE main challenges of Machine Learning, in particular underfitting and overfit
+ting (THE bias/variance tradeoff).
+Reducing THE dimensionality of THE training data to fight THE curse of dimension
